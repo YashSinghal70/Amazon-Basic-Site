@@ -1,0 +1,101 @@
+@media only screen and (max-width:900px)
+ {
+    .del
+    {
+        font-size: 10px;
+    }
+    .in
+    {
+        font-size: 13px;
+    }
+    .loc
+    {
+        font-size: 15px;
+    }
+    .search
+    {
+        width: 400px;
+    }
+    .flag
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .flag img
+    {
+        height: 15px;
+        width: 15px;
+    }
+ .flag p
+ {
+   
+    font-size: 15px;
+ }
+ .helo
+ {
+    margin-left: 10px;
+   
+ }
+ .heloo
+ {
+    margin-left: 10px
+ }
+ .cart
+ {display: flex;
+    align-items: end;
+    margin-left: 10px
+ }
+.hell
+{
+
+    font-size: 10px;
+    font-weight: 350;
+}
+.helll
+{
+    font-size: 11px;
+    font-weight: 550;
+}
+
+.cart
+{
+   font-size: 15px;
+}
+/* .barss
+{
+    display: flex;
+    font-size: 25px;
+} */
+.opt p
+{
+    font-size: 10px;
+}
+.deal p
+{
+    font-size: 10px;
+}
+.all
+{
+    font-size: 10px;
+}
+.rr
+{
+    font-size: 10px;
+}
+.white
+{
+    width: 50%;
+}
+.white p
+ {
+    font-size: 10px;
+    font-weight: 300;
+}
+.itemsbox
+{
+flex-direction: column;
+}
+
+ }
+
